@@ -1,0 +1,10 @@
+[ {
+"building" : "Johnson Center",
+"flags" : {
+  "study" : true,
+  "food" : true,
+  "classes" : false,
+  "offices" : true,
+  "resources" : true
+ },
+ 
