@@ -8,4 +8,111 @@
   "resources" : true
  },
 
-}
+},
+ "building" : "Engineering Building",
+ "flags" : {
+    "study" : false,
+    "food" : true,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+ "building" :  "Planetary Hall",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+ "building" :  "Exploratory Hall",
+ "flags" : {
+    "study" : true,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+ "building" :  "SUB 1",
+ "flags" : {
+    "study" : true,
+    "food" : true,
+    "classes" : false,
+    "offices" : true,
+    "resources" : true
+ },
+ 
+  "building" :  "Merten Hall",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+  "building" :  "David King Hall",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+  "building" :  "East Building",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+  "building" :  "Krug Hall",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+  "building" :  "Enterprise Hall",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+  "building" :  "Fenwick Library",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+   "building" :  "Finley Building",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
+ 
+   "building" :  "Peterson Building",
+ "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : false
+ },
