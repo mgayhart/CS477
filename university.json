@@ -30,7 +30,7 @@
     "offices" : true,
     "resources" : false
   },
-  "c_info" : "Classes as well as some research opportunities, specifically in the Psychology Department are conducted here.",
+  "c_info" : "Classes as well as some research opportunities, specifically in the Psychology Department are conducted here. SOMA Research is typically conducted in the basement of DK",
   "o_info" : "The Psychology department has its officies in David King, as well as the Department of Environmental Science and Policy."
 }
 , {
@@ -82,41 +82,46 @@
     "resources" : true
   },
  "s_info" : "Fenwick has some of the best study locations on campus, with a number of tables with comfortable chairs set up on each of the levels it is the go-to location for studying on campus. There are also study rooms which can be booked online. Each floor has a different silence level which gets quieter as you go up in the building, so if you need absolute silence while studying, the 4th floor is for you.",
- "f_info" : "Argo Tea is located in the lobby of Fenwick."
- "r_info" : "While a great study location, Fenwick is first and foremost a Library. You can check out books and browse the other resources the library has to offer."
+ "f_info" : "Argo Tea is located in the lobby of Fenwick.",
+ "r_info" : "While a great study location, Fenwick is first and foremost a Library. You can check out books and browse the other resources the library has to offer. Fenwick also has printing services available."
 }
  , {
   "building" : "Finley Building",
   "flags" : {
-    "study" : false,
+    "study" : true,
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "s_info" : "Finley has a great courtyard that has picknic tables set up which is a great quiet place to study, weather permitting.",
+ "o_info" : "The School of Public Policy is located in the Finley Building."
 }
  , {
   "building" : "Innovation Hall",
   "flags" : {
-    "study" : false,
+    "study" : true,
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "s_info" : "Innovation has a nice area on the top floor that has a number of tables, and several computer labs that would make for good study locations.",
+ "o_info" : "ITU support center is housed in Innovation, but other than this and some additional IT offices, there are no departmental offices located in Innovation."
 }
  , {
   "building" : "Johnson Center",
   "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
+    "study" : true,
+    "food" : true,
+    "classes" : false,
     "offices" : true,
     "resources" : true
   },
- 
+ "s_info" : "The JC has a number of tables on each and every floor that make for good locations to get some work done. There are also some study rooms on the upper floors that can be reserved online. Only downside to working in the JC is the noise, but with the food options readily available it is still a popular study location.",
+ "f_info" : "In the JC: Freshens (convenient store), Panera Bread, Star Ginger, Steak n Shake, Garbanzo, Blaze Pizza, Chipotle, Indaroma, Red Hot n Blue, Starbucks.",
+ "o_info" : "There are numerous offices in the JC, including: Study Abroad, Women and Gender Studies, African American Studies, Student Centers office and many more. For more information on specific offices check in at the Info Desk in the JC itself.",
+ "r_info" : "On the main level of the Johnson Center is the Information Desk which is staffed to answer any questions you may have. Also ther is an Apple FCU bank branch, Barnes and Noble bookstore for Textbooks, supplies etc. There is a library with printing services, Student Centers office, and computer labs for use during operating hours." 
 }
  , {
   "building" : "Krug Hall",
@@ -125,7 +130,7 @@
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
  
 }
@@ -260,17 +265,6 @@
     "resources" : true
   },
  
-}
- , {
-  "building" : "East Building",
-  "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
-    "offices" : true,
-    "resources" : true
-  },
-   
 }
  , {
   "building" : "West Building",
