@@ -14,12 +14,12 @@
   "building" : "Blueridge Hall",
   "flags" : {
     "study" : false,
-    "food" : false,
+    "food" : true,
     "classes" : true,
-    "offices" : true,
-    "resources" : true
+    "offices" : false,
+    "resources" : false
   },
- 
+ "c_info" : "Blueridge Hall is a student housing building, but has a classroom on the first floor, that holds the occasional lecture."
 }
 , {
   "building" : "David King Hall",
@@ -31,7 +31,7 @@
     "resources" : false
   },
   "c_info" : "Classes as well as some research opportunities, specifically in the Psychology Department are conducted here.",
-  "o_info" : "The Psychology department has its officies in David King."
+  "o_info" : "The Psychology department has its officies in David King, as well as the Department of Environmental Science and Policy."
 }
 , {
   "building" : "East Building",
@@ -40,42 +40,50 @@
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "c_info" : "There are a number of classrooms in East, that are mainly used for smaller class experiences.",
+  "o_info" : "The Robinson Professors as well as the Early Identification Program have offices in East Building."
 }
 , {
   "building" : "Enterprise Hall",
   "flags" : {
-    "study" : false,
+    "study" : true,
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "s_info" : "There are a number of quiet spots for study, including on the second and third floor, in the area that runs over the walkway below. This is a peaceful place to get some work done. There are not any desks in this area so keep that in mind.",
+ "c_info" : "Classroms are varied in Enterprise, there are both smaller classrooms and larger lecture halls located in this building.",
+ "o_info" : "Offices in Enterprise include: Economics, Management, New Century College, and the Office of Student Academic Affairs."
 }
  , {
   "building" : "Exploratory Hall",
   "flags" : {
-    "study" : false,
-    "food" : false,
+    "study" : true,
+    "food" : true,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "s_info" : "Exploratory has a number of places to study. On the first floor there is the perodic table room, where there are tables to work on, but this area is usually crowded during peak study times. On the second floor there are some study areas that are tucked inbetween some of the classrooms. Also the best place to study, weather permitting is on the third floor there is a balcony that has a number of tables and chairs to work on. There are not outlets out there so power management is necessary.",
+ "f_info" : "Exploratory has a Pete's Coffee on the main floor by the entrance that leads toward Enterprise, and the Shenandoah Parking Deck.",
+ "c_info" : "Classes are held throughout Exploratory, with a number of Labs on all of the floors, as well as several lecture halls on the lower level, as well as some collaborative classroom spaces.",
+ "o_info" : "Offices for the Biology Department are located primarily in Exploratory."
 }
  , {
   "building" : "Fenwick Library",
   "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
-    "offices" : true,
+    "study" : true,
+    "food" : true,
+    "classes" : false,
+    "offices" : false,
     "resources" : true
   },
- 
+ "s_info" : "Fenwick has some of the best study locations on campus, with a number of tables with comfortable chairs set up on each of the levels it is the go-to location for studying on campus. There are also study rooms which can be booked online. Each floor has a different silence level which gets quieter as you go up in the building, so if you need absolute silence while studying, the 4th floor is for you.",
+ "f_info" : "Argo Tea is located in the lobby of Fenwick."
+ "r_info" : "While a great study location, Fenwick is first and foremost a Library. You can check out books and browse the other resources the library has to offer."
 }
  , {
   "building" : "Finley Building",
