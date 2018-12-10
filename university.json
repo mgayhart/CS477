@@ -1,118 +1,277 @@
 [ {
-"building" : "Johnson Center",
-"flags" : {
-  "study" : true,
-  "food" : true,
-  "classes" : false,
-  "offices" : true,
-  "resources" : true
- },
-
-},
- "building" : "Engineering Building",
- "flags" : {
+  "building" : "Art and Design Building",
+  "flags" : {
     "study" : false,
-    "food" : true,
+    "food" : false,
+    "classes" : true,
+    "offices" : false,
+    "resources" : true
+  },
+  "c_info" : "Classes take place in a number of computer labs in the basement, as well as a lecture style room.",
+  "r_info" : "There are several computer labs available for use, as well as the ability to rent/check out photography equipmen† for classes"
+}
+ , {
+  "building" : "Blueridge Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : false
- },
+    "resources" : true
+  },
  
- "building" :  "Planetary Hall",
- "flags" : {
+}
+, {
+  "building" : "David King Hall",
+  "flags" : {
     "study" : false,
     "food" : false,
     "classes" : true,
     "offices" : true,
     "resources" : false
- },
- 
- "building" :  "Exploratory Hall",
- "flags" : {
-    "study" : true,
+  },
+  "c_info" : "Classes as well as some research opportunities, specifically in the Psychology Department are conducted here.",
+  "o_info" : "The Psychology department has its officies in David King."
+}
+, {
+  "building" : "East Building",
+  "flags" : {
+    "study" : false,
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : false
- },
+    "resources" : true
+  },
  
- "building" :  "SUB 1",
- "flags" : {
+}
+, {
+  "building" : "Enterprise Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Exploratory Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Fenwick Library",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Finley Building",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Innovation Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Johnson Center",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Krug Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Lecture Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Merten Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Music/Theater Building",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Nguyen Engineering Building",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Peterson Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Planetary Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Research Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Robinson B",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Sandbridge Hall",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
+    "offices" : true,
+    "resources" : true
+  },
+ 
+}
+ , {
+  "building" : "Southside",
+  "flags" : {
     "study" : true,
     "food" : true,
     "classes" : false,
+    "offices" : false,
+    "resources" : false
+  },
+ 
+}
+ , {
+  "building" : "Student Union Building I (SUB1)",
+  "flags" : {
+    "study" : false,
+    "food" : false,
+    "classes" : true,
     "offices" : true,
     "resources" : true
- },
+  },
  
-  "building" :  "Merten Hall",
- "flags" : {
+}
+ , {
+  "building" : "The HUB",
+  "flags" : {
     "study" : false,
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : false
- },
+    "resources" : true
+  },
  
-  "building" :  "David King Hall",
- "flags" : {
+}
+ , {
+  "building" : "East Building",
+  "flags" : {
     "study" : false,
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : false
- },
- 
-  "building" :  "East Building",
- "flags" : {
+    "resources" : true
+  },
+   
+}
+ , {
+  "building" : "West Building",
+  "flags" : {
     "study" : false,
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : false
- },
+    "resources" : true
+  },
  
-  "building" :  "Krug Hall",
- "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
-    "offices" : true,
-    "resources" : false
- },
- 
-  "building" :  "Enterprise Hall",
- "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
-    "offices" : true,
-    "resources" : false
- },
- 
-  "building" :  "Fenwick Library",
- "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
-    "offices" : true,
-    "resources" : false
- },
- 
-   "building" :  "Finley Building",
- "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
-    "offices" : true,
-    "resources" : false
- },
- 
-   "building" :  "Peterson Building",
- "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
-    "offices" : true,
-    "resources" : false
- },
+}
