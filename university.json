@@ -132,7 +132,8 @@
     "offices" : true,
     "resources" : false
   },
- 
+ "c_info" : " ",
+ "o_info" : " "
 }
  , {
   "building" : "Lecture Hall",
@@ -140,21 +141,25 @@
     "study" : false,
     "food" : false,
     "classes" : true,
-    "offices" : true,
-    "resources" : true
+    "offices" : false,
+    "resources" : false
   },
- 
+ "c_info" : " "
 }
  , {
   "building" : "Merten Hall",
   "flags" : {
-    "study" : false,
-    "food" : false,
+    "study" : true,
+    "food" : true,
     "classes" : true,
     "offices" : true,
     "resources" : true
   },
- 
+ "s_info" : " ",
+ "f_info" : " ",
+ "c_info" : " ",
+ "o_info" : " ",
+ "r_info" : " "
 }
  , {
   "building" : "Music/Theater Building",
@@ -162,32 +167,39 @@
     "study" : false,
     "food" : false,
     "classes" : true,
-    "offices" : true,
-    "resources" : true
+    "offices" : false,
+    "resources" : false
   },
- 
+ "c_info" : " "
 }
  , {
   "building" : "Nguyen Engineering Building",
   "flags" : {
-    "study" : false,
-    "food" : false,
+    "study" : true,
+    "food" : true,
     "classes" : true,
     "offices" : true,
     "resources" : true
   },
- 
+ "s_info" : " ",
+ "f_info" : " ",
+ "c_info" : " ",
+ "o_info" : " ",
+ "r_info" : " "
 }
  , {
   "building" : "Peterson Hall",
   "flags" : {
-    "study" : false,
-    "food" : false,
+    "study" : true,
+    "food" : true,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "s_info" : " ",
+ "f_info" : " ",
+ "c_info" : " ",
+ "o_info" : " "
 }
  , {
   "building" : "Planetary Hall",
@@ -196,9 +208,10 @@
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "c_info" : " ",
+ "o_info" : " "
 }
  , {
   "building" : "Research Hall",
@@ -209,7 +222,9 @@
     "offices" : true,
     "resources" : true
   },
- 
+ "c_info" : " ",
+ "o_info" : " ",
+ "r_info" : " " 
 }
  , {
   "building" : "Robinson B",
@@ -218,9 +233,10 @@
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "c_info" : " ",
+ "o_info" : " "
 }
  , {
   "building" : "Sandbridge Hall",
@@ -228,10 +244,10 @@
     "study" : false,
     "food" : false,
     "classes" : true,
-    "offices" : true,
-    "resources" : true
+    "offices" : false,
+    "resources" : false
   },
- 
+ "c_info" : " "
 }
  , {
   "building" : "Southside",
@@ -242,29 +258,36 @@
     "offices" : false,
     "resources" : false
   },
- 
+  "s_info" : " ",
+  "f_info" : " "
 }
  , {
   "building" : "Student Union Building I (SUB1)",
   "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
+    "study" : true,
+    "food" : true,
+    "classes" : false,
     "offices" : true,
     "resources" : true
   },
- 
+  "s_info" : " ",
+  "f_info" : " ",
+  "o_info" : " ",
+  "r_info" : " "
 }
  , {
   "building" : "The HUB",
   "flags" : {
-    "study" : false,
-    "food" : false,
-    "classes" : true,
+    "study" : true,
+    "food" : true,
+    "classes" : false,
     "offices" : true,
     "resources" : true
   },
- 
+  "s_info" : " ",
+  "f_info" : " ",
+  "o_info" : " ",
+  "r_info" : " " 
 }
  , {
   "building" : "West Building",
@@ -273,7 +296,8 @@
     "food" : false,
     "classes" : true,
     "offices" : true,
-    "resources" : true
+    "resources" : false
   },
- 
+ "c_info" : " ",
+ "o_info" : " "
 }
