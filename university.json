@@ -132,8 +132,8 @@
     "offices" : true,
     "resources" : false
   },
- "c_info" : " ",
- "o_info" : " "
+ "c_info" : "Similar to East and West, Krug has a number of classrooms that support small to medium sized traditional class type.",
+ "o_info" : "Houses the Helen A. Kellar Institute and the English Language Institute."
 }
  , {
   "building" : "Lecture Hall",
@@ -144,7 +144,7 @@
     "offices" : false,
     "resources" : false
   },
- "c_info" : " "
+ "c_info" : "Lecture Hall contains one large lecture hall and 2 smaller classrooms."
 }
  , {
   "building" : "Merten Hall",
@@ -155,11 +155,11 @@
     "offices" : true,
     "resources" : true
   },
- "s_info" : " ",
- "f_info" : " ",
- "c_info" : " ",
- "o_info" : " ",
- "r_info" : " "
+ "s_info" : "Merten Hall has a nice lobby space between Panda Express and Einstein's Bagels, which has a number of couches and tables that are good for a quick study session before class, as there is relatively low traffic in the building itself.",
+ "f_info" : "In Merten Hall is: Panda Express, Einstein's Bagels and Manhattan's Pizza.",
+ "c_info" : "There are several classrooms on the first floor of Merten, which can hold a medium to larger sized class.",
+ "o_info" : "Human Resources has their office in Merten Hall, as well as the Marketing section responsible for We Are Mason.",
+ "r_info" : "There is an Information Desk in the lobby, as well as a UPS store between the Einstein's and Manhattan's."
 }
  , {
   "building" : "Music/Theater Building",
@@ -170,7 +170,7 @@
     "offices" : false,
     "resources" : false
   },
- "c_info" : " "
+ "c_info" : "There are several classrooms of varying type in the lower level of Music Theater, with different Music and performing arts spaces in the upper levels of the building."
 }
  , {
   "building" : "Nguyen Engineering Building",
@@ -181,25 +181,24 @@
     "offices" : true,
     "resources" : true
   },
- "s_info" : " ",
- "f_info" : " ",
- "c_info" : " ",
- "o_info" : " ",
- "r_info" : " "
+ "s_info" : "There are several little tucked away areas with tables and chairs that can be used to study in the Engineering building, as well as on the lower floor there are some comfortable chairs and tables that can also be used to study.",
+ "f_info" : "There is an Einstein's Bagel in the lower level.",
+ "c_info" : "There are several classrooms on the lower level of Engineering, with on lecture hall, as well as several more traditional smaller scale classrooms.",
+ "o_info" : "The Schools of Engineering and Computer Science have their offices in the Engineering building on the upper floors.",
+ "r_info" : "Ther are a number of computer labs throughout the building, that can be used by students."
 }
  , {
   "building" : "Peterson Hall",
   "flags" : {
-    "study" : true,
+    "study" : false,
     "food" : true,
     "classes" : true,
     "offices" : true,
     "resources" : false
   },
- "s_info" : " ",
- "f_info" : " ",
- "c_info" : " ",
- "o_info" : " "
+ "f_info" : "There is a Pete's Coffee located in Peterson Hall.",
+ "c_info" : "Peterson is the newest building on GMU Fairfax campus, and there are a number of classrooms housed within.",
+ "o_info" : "School of Social Work as well as the Nursing program have offices and classrooms in Peterson."
 }
  , {
   "building" : "Planetary Hall",
@@ -210,8 +209,8 @@
     "offices" : true,
     "resources" : false
   },
- "c_info" : " ",
- "o_info" : " "
+ "c_info" : "Planetary is home to a number of classrooms on each of the floors, as well as labs for the physics department. This building is connected to Exploratory, which may cause confusion as to class locations.",
+ "o_info" : "The Physics Department is housed in Planetary"
 }
  , {
   "building" : "Research Hall",
@@ -222,9 +221,9 @@
     "offices" : true,
     "resources" : true
   },
- "c_info" : " ",
- "o_info" : " ",
- "r_info" : " " 
+ "c_info" : "There is a large classroom on the first floor of Research Hall, as well as an abundance of office and research space.",
+ "o_info" : "Offices in Research Hall include the College of Science and the Center for Earth Observing and Space Research.",
+ "r_info" : "Research Hall is home to the GMU Observatory, which has a number of public talks and tours throughout the semester and summer, check their website for schedule and weather updates." 
 }
  , {
   "building" : "Robinson B",
@@ -235,8 +234,8 @@
     "offices" : true,
     "resources" : false
   },
- "c_info" : " ",
- "o_info" : " "
+ "c_info" : "Robinson B holds a large number of traditional classrooms with ideal class sizes of under 50. There are a couple larger and some that could hold no more than 25.",
+ "o_info" : "The English Department is currently housed in Robinson, however all of the construction may change some locations in the future."
 }
  , {
   "building" : "Sandbridge Hall",
@@ -247,7 +246,7 @@
     "offices" : false,
     "resources" : false
   },
- "c_info" : " "
+ "c_info" : "Sandbridge is like Blueridge, in that it is a Student Housing building that has a single lecture hall on the first floor. The lecture room has its own entrance."
 }
  , {
   "building" : "Southside",
@@ -258,8 +257,8 @@
     "offices" : false,
     "resources" : false
   },
-  "s_info" : " ",
-  "f_info" : " "
+  "s_info" : "Southside dining hall is a decent place to study if you want to do so while grabbing a bite to eat. It can be loud and crowded, but still offers the ability to eat and study simultaneously.",
+  "f_info" : "Southside is one of the three dining halls on campus."
 }
  , {
   "building" : "Student Union Building I (SUB1)",
@@ -270,10 +269,10 @@
     "offices" : true,
     "resources" : true
   },
-  "s_info" : " ",
-  "f_info" : " ",
-  "o_info" : " ",
-  "r_info" : " "
+  "s_info" : "SUB1 has a number of great places to study on the main floor there are a number of couches and tables, and then scattered upstairs are several tables and chairs that make for great study locations due to the low traffic and quiet atmosphere.",
+  "f_info" : "SUB1 Food: Chick-fil-a, The Rathskeller, Akeno Sushi, Simply-to-go.",
+  "o_info" : "Student Conduct office, the Card Office, Financial Aid, Student Accounts",
+  "r_info" : "SUB1 has some of the best resources on campus. Inside is: Career Services, Counseling and Psychological Services (CAPS) and Student Support and Advocacy Center (SSAC)."
 }
  , {
   "building" : "The HUB",
@@ -284,10 +283,10 @@
     "offices" : true,
     "resources" : true
   },
-  "s_info" : " ",
-  "f_info" : " ",
-  "o_info" : " ",
-  "r_info" : " " 
+  "s_info" : "The HUB has a number of tables set up for students to use, with some tables outside on the patio as well, which is a great place during the warm weather.",
+  "f_info" : "WingZone is located on the Main floor of the HUB.",
+  "o_info" : "the Hub is home to the office of Orientation and Family Planning.",
+  "r_info" : "There is an information desk on the top floor of the HUB, and the Mail Room is on the bottom floor." 
 }
  , {
   "building" : "West Building",
@@ -298,6 +297,7 @@
     "offices" : true,
     "resources" : false
   },
- "c_info" : " ",
- "o_info" : " "
+ "c_info" : "Similar in layout to East Building West has a number of smaller classrooms.",
+ "o_info" : "West houses the office of Education Services."
 }
+]
