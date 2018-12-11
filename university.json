@@ -14,7 +14,7 @@
   "building" : "Blueridge Hall",
   "flags" : {
     "study" : false,
-    "food" : true,
+    "food" : false,
     "classes" : true,
     "offices" : false,
     "resources" : false
