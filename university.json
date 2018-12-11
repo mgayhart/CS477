@@ -108,6 +108,7 @@
     "resources" : false
   },
  "s_info" : "Innovation has a nice area on the top floor that has a number of tables, and several computer labs that would make for good study locations.",
+ "c_info" : "The classrooms for Innovation include several large lecture halls, along with a number of smaller classrooms and some comptuer labs on the upper floors for classes.",
  "o_info" : "ITU support center is housed in Innovation, but other than this and some additional IT offices, there are no departmental offices located in Innovation."
 }
  , {
